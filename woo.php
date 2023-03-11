@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="generator" content="Mobirise v5.8.4, mobirise.com">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+    <link rel="shortcut icon" href="assets/images/1233344-96x68.png" type="image/x-icon">
+    <meta name="description" content="">
+
+
+    <title>WOO</title>
+    <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2.css">
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
+    <link rel="stylesheet" href="assets/dropdown/css/style.css">
+    <link rel="stylesheet" href="assets/socicon/css/styles.css">
+    <link rel="stylesheet" href="assets/theme/css/style.css">
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap">
+    </noscript>
+    <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css">
+    <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+
+
+
+
+</head>
+
+<body>
+
+    <?php include "menu-bar.php"; ?>
+
+    <section data-bs-version="5.1" class="info3 cid-ty8NUVm61b" id="info3-b">
+
+
+
+
+        <div class="mbr-overlay" style="opacity: 0.6; background-color: rgb(0, 0, 0);">
+        </div>
+
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="card col-12 col-lg-10">
+                    <div class="card-wrapper">
+                        <div class="card-box align-center">
+                            <h4 class="card-title mbr-fonts-style align-center mb-4 display-1">
+                                <strong>WOO</strong>
+                            </h4>
+                            <p class="mbr-text mbr-fonts-style mb-4 display-7">THERE IS SOMETHING FOR EVERYONE<br>Get lost in the magic of storytelling and experience emotion like never before</p>
+                            <div class="mbr-section-btn mt-3"><a class="btn btn-secondary display-4" href="PaulEzeani.pdf">Open PDF</a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section data-bs-version="5.1" class="image2 cid-ty8QscHYob" id="image2-c">
+
+
+
+
+
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-12 col-lg-6">
+                    <div class="image-wrapper">
+                        <img src="assets/images/tp238-pf-s73-05-mockup2x-1000x667.png" alt="">
+                        <p class="mbr-description mbr-fonts-style mt-2 align-center display-4">
+                            Image Description</p>
+                    </div>
+                </div>
+                <div class="col-12 col-lg">
+                    <div class="text-wrapper">
+                        <h3 class="mbr-section-title mbr-fonts-style mb-3 display-5">
+                            <strong>Project Overview</strong>
+                        </h3>
+                        <p class="mbr-text mbr-fonts-style display-7">
+                            <strong>The Project</strong><br>WOO™ is a trendy movie theatre designed for movie lovers everywhere. It offers a comprehensive and convenient platform to purchase movie tickets, find movie showtimes, and get access to exclusive offers and promotions. With WOO™, moviegoers can have a seamless and stress-free movie-going experience, without the hassle of waiting in line or dealing with the crowds. The app also provides detailed information about each movie, including its synopsis, cast and crew, and movie ratings, making it easier for users to make informed decisions about which movies to watch<br><br><strong>Project Duration<br></strong>January, 2022 to February, 2023<br><br><strong>The Problem<br></strong>Finding your favorite movies online can be a hassle, but not anymore. Many movie theater websites have cluttered designs, inefficient browsing systems, and confusing ticket booking processes. This can make it difficult for customers to find what they're looking for and result in a frustrating experience<br><br><strong>The Goal<br></strong>Design a website for WOO™ that provides customers with a convenient and user-friendly way to browse and purchase movie tickets. Allowing customers to create accounts to save their preferences, view their order history, and receive personalised recommendations, while also making it easy for customers to find movie listings and showtimes<br><br><strong>My Role<br></strong>UX designer leading the WOO™ movie theater website design<br><br><strong>Responsibilities</strong><br>Conducting interviews, paper and digital wireframing, low and high-fidelity prototyping, conducting usability studies, accounting for accessibility, iterating on designs and responsive design<br>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section data-bs-version="5.1" class="content4 cid-ty8Wk5ynBQ" id="content4-e">
+
+
+
+
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="title col-md-12 col-lg-10">
+                    <h3 class="mbr-section-title mbr-fonts-style align-center mb-4 display-5"><strong>User research: summary</strong></h3>
+
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section data-bs-version="5.1" class="content7 cid-ty8W2RzTMe" id="content7-d">
+
+        <div class="container-fluid">
+            <div class="row justify-content-center">
+                <div class="col-12 col-md-10">
+                    <blockquote>
+
+                        <p class="mbr-text mbr-fonts-style display-4">After conducting user interviews, I created empathy maps to gain a deeper understanding of our target audience and their requirements. Through this process, I learned that
+                            <br>numerous customers consider watching movies at the theater as a means to relax and
+                            <br>escape from the hustle and bustle of daily life. Unfortunately, several cinema websites tend to be disorienting and hard to navigate, resulting in frustration among users. This
+                            <br>predicament turns what should be a pleasant experience into a stressful one, which goes against the purpose of unwinding&nbsp;<br>
+                        </p>
+                    </blockquote>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section data-bs-version="5.1" class="content4 cid-ty8XCeN4eV" id="content4-f">
+
+
+
+
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="title col-md-12 col-lg-12">
+                    <h3 class="mbr-section-title mbr-fonts-style align-center mb-4 display-5"><strong>Meet the users:&nbsp;</strong><strong>Happiness &amp; Ali</strong></h3>
+                    <h4 class="mbr-section-subtitle align-center mbr-fonts-style mb-4 display-7"><strong>Problem statement</strong>: Happiness is a movie lover who needs a user-friendly website with multiple payment options, easy navigation, and search filters to enable her to enjoy movies on her "off" time to relax.<br><br><strong>Problem statement</strong>: Ali needs a good, user-friendly website with easy navigation and a well-structured ticket booking system.</h4>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section data-bs-version="5.1" class="gallery1 cid-ty8YKdfHOa" id="gallery1-g">
+
+
+        <div class="container">
+
+            <div class="row mt-4">
+                <div class="item features-image сol-12 col-md-6 col-lg-6">
+                    <div class="item-wrapper">
+                        <div class="item-img">
+                            <img src="assets/images/whatsapp-image-2023-03-10-at-11.36.40-pm-1-960x540.jpg" alt="">
+                        </div>
+
+
+                    </div>
+                </div>
+                <div class="item features-image сol-12 col-md-6 col-lg-6">
+                    <div class="item-wrapper">
+                        <div class="item-img">
+                            <img src="assets/images/whatsapp-image-2023-03-10-at-11.36.40-pm-960x540.jpg" alt="">
+                        </div>
+
+
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+    </section>
+
+    <section data-bs-version="5.1" class="image2 cid-ty9290FQSh" id="image2-i">
+
+
+
+
+
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-12 col-lg-6">
+                    <div class="image-wrapper">
+                        <img src="assets/images/woo111-1256x646.png" alt="">
+                        <p class="mbr-description mbr-fonts-style mt-2 align-center display-4">
+                            Stars were used to mark the elements of each sketch that would be used in the initial digital wireframes.</p>
+                    </div>
+                </div>
+                <div class="col-12 col-lg">
+                    <div class="text-wrapper">
+                        <h3 class="mbr-section-title mbr-fonts-style mb-3 display-5"><strong>Paper wireframes</strong></h3>
+                        <p class="mbr-text mbr-fonts-style display-7">Next, I sketched out paper wireframes for each screen in the app, keeping the user's pain points about navigation, browsing, and payment options in mind<br></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section data-bs-version="5.1" class="image2 cid-ty92TyB5ih" id="image2-j">
+
+
+
+
+
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-12 col-lg-6">
+                    <div class="image-wrapper">
+                        <img src="assets/images/woo1112-1256x815.png" alt="">
+                        <p class="mbr-description mbr-fonts-style mt-2 align-center display-4">
+                            Stars were used to mark the elements of each sketch that would be used in the initial digital wireframes.</p>
+                    </div>
+                </div>
+                <div class="col-12 col-lg">
+                    <div class="text-wrapper">
+                        <h3 class="mbr-section-title mbr-fonts-style mb-3 display-5"><strong>Digital wireframe screen size variation(s)</strong></h3>
+                        <p class="mbr-text mbr-fonts-style display-7">Variation of the digital wireframe showing the responsiveness of the website<br></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section data-bs-version="5.1" class="image2 cid-ty93yZsbqp" id="image2-k">
+
+
+
+
+
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-12 col-lg-6">
+                    <div class="image-wrapper">
+                        <img src="assets/images/22333-1256x518.png" alt="">
+                        <p class="mbr-description mbr-fonts-style mt-2 align-center display-4">
+                            View Prototype <a href="https://xd.adobe.com/view/d6f1720a-a034-4068-9e46-786b54f63fc8-83a2/?fullscreen" class="text-primary" target="_blank">here</a></p>
+                    </div>
+                </div>
+                <div class="col-12 col-lg">
+                    <div class="text-wrapper">
+                        <h3 class="mbr-section-title mbr-fonts-style mb-3 display-5"><strong>Low-fidelity prototype</strong></h3>
+                        <p class="mbr-text mbr-fonts-style display-7">To create a low-fidelity prototype, I connected all of the screens involved in the primary user flow. At this point, I had received feedback on my designs from members of my team about placement and page organization.<br>I made sure to listen to their feedback, and I implemented several suggestions in places that addressed user pain points.&nbsp;<br></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section data-bs-version="5.1" class="image2 cid-ty954QafId" id="image2-l">
+
+
+
+
+
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-12 col-lg-6">
+                    <div class="image-wrapper">
+                        <img src="assets/images/111111wecsd-1256x626.png" alt="">
+                        <p class="mbr-description mbr-fonts-style mt-2 align-center display-4">
+                            View the Hi-Fi Prototype <a href="https://xd.adobe.com/view/44dabbbc-013e-4ba6-aec4-8605c61a82e2-1189/" class="text-primary" target="_blank">here</a></p>
+                    </div>
+                </div>
+                <div class="col-12 col-lg">
+                    <div class="text-wrapper">
+                        <h3 class="mbr-section-title mbr-fonts-style mb-3 display-5"><strong>High-fidelity prototype</strong></h3>
+                        <p class="mbr-text mbr-fonts-style display-7">My hi-fi prototype followed the same user flow as the lo-fi prototype, and included the design changes made after the usability study, as well as several changes suggested by members of my team<br></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section data-bs-version="5.1" class="features1 cid-ty977LphL7" id="features1-m">
+
+
+
+
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h3 class="mbr-section-title mbr-fonts-style align-center mb-0 display-5">
+                        <strong>Takeaways</strong>
+                    </h3>
+
+                </div>
+            </div>
+            <div class="row">
+                <div class="card col-12 col-md-6 col-lg-3">
+                    <div class="card-wrapper">
+                        <div class="card-box align-center">
+                            <div class="iconfont-wrapper">
+                                <span class="mbr-iconfont mobi-mbri-growing-chart mobi-mbri"></span>
+                            </div>
+                            <h5 class="card-title mbr-fonts-style display-7"><strong>Impact</strong></h5>
+                            <p class="card-text mbr-fonts-style display-7">According to our target users, the design was easy to navigate due to its intuitiveness, more captivating with the use of movie covers, and displayed a well-defined visual hierarchy.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="card col-12 col-md-6 col-lg-3">
+                    <div class="card-wrapper">
+                        <div class="card-box align-center">
+                            <div class="iconfont-wrapper">
+                                <span class="mbr-iconfont mobi-mbri-layers mobi-mbri"></span>
+                            </div>
+                            <h5 class="card-title mbr-fonts-style display-7"><strong>What I learned</strong></h5>
+                            <p class="card-text mbr-fonts-style display-7">My key takeaway was that a minor design modification can significantly affect the user experience. It reinforced the importance of prioritizing the genuine needs of the user while brainstorming design ideas and solutions.</p>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+    </section>
+
+    <section data-bs-version="5.1" class="footer3 cid-ty8xbZ73Ml" once="footers" id="footer3-6">
+
+
+
+
+
+        <div class="container">
+            <div class="media-container-row align-center mbr-white">
+                <div class="row row-links">
+                    <ul class="foot-menu">
+
+
+
+
+
+                        <li class="foot-menu-item mbr-fonts-style display-7">
+                            <a class="text-white text-primary" href="about.html">About me</a>
+                        </li>
+                        <li class="foot-menu-item mbr-fonts-style display-7"><a class="text-white" href="#" target="_blank">Resume</a></li>
+                        <li class="foot-menu-item mbr-fonts-style display-7">
+                            <a class="text-white text-primary" href="index.html#contacts4-5" target="_blank">Contact me</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="row social-row">
+                    <div class="social-list align-right pb-2">
+
+
+
+
+
+
+                        <div class="soc-item">
+                            <a href="https://linkedin.com/in/paul-ezeani" target="_blank">
+                                <span class="mbr-iconfont mbr-iconfont-social socicon-linkedin socicon"></span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row row-copirayt">
+                    <p class="mbr-text mb-0 mbr-fonts-style mbr-white align-center display-7">
+                        © Copyright 2025 Paul Ezeani.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="display-7" style="padding: 0;align-items: center;justify-content: center;flex-wrap: wrap;    align-content: center;display: flex;position: relative;height: 4rem;"><a href="" style="flex: 1 1;height: 4rem;position: absolute;width: 100%;z-index: 1;"><img alt="" style="height: 4rem;" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="></a>
+        <p style="margin: 0;text-align: center;" class="display-7"></p><a style="z-index:1" href=""></a>
+    </section>
+    <script src="assets/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/smoothscroll/smooth-scroll.js"></script>
+    <script src="assets/ytplayer/index.js"></script>
+    <script src="assets/dropdown/js/navbar-dropdown.js"></script>
+    <script src="assets/theme/js/script.js"></script>
+
+
+</body>
+
+</html>
